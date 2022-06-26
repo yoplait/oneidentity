@@ -2,9 +2,14 @@
 
 ##########################################################################################
 # Exercise 1: Find all ships that appeared in Return of the Jedi
+
 clear
 URL='https://swapi.dev/api'
 PAGE=1
+
+echo ""
+echo "Exercise 1: Find all ships that appeared in Return of the Jedi"
+echo ""
 
 while true
 do
