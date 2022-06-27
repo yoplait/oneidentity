@@ -32,9 +32,12 @@ You can find the files here on:
 
 ```
 ├── README.md
-├── exercise1.sh
-├── exercise2.sh
-└── exercise3.sh
+├── bash
+│   ├── exercise1.sh
+│   ├── exercise2.sh
+│   └── exercise3.sh
+└── python
+    └── exercise1.py
 ```
 
 ### Remote GISTS:
