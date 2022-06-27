@@ -19,6 +19,6 @@ def crawl(link):
 		for page in next_page:
 			yield page
 
-force_awakenes = crawl('https://swapi.dev/api/starships')
-for results in force_awakenes:
+return_jedi = crawl('https://swapi.dev/api/starships')
+for results in return_jedi:
 	print(results)
